@@ -1,5 +1,8 @@
 # plugin-sharing
 
+**NOTE**: This is a fork from `GitbookIO` github repo and try to keep it up to date,
+providing bugs / vulnerabilities fixes.
+
 This plugin adds sharing buttons in the GitBook website toolbar to share book on social networks.
 
 ### Disable this plugin
