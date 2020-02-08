@@ -1,22 +1,22 @@
 {
-  "name": "gitbook-plugin-sharing",
+  "name": "@gitbook-ng/gitbook-plugin-sharing",
   "description": "Sharing buttons in GitBooks website",
   "main": "index.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "dependencies": {
     "lodash": "^4.17.15"
   },
   "engines": {
     "gitbook": ">=2.4.0"
   },
-  "homepage": "https://github.com/GitbookIO/plugin-sharing",
+  "homepage": "https://github.com/gitbook-ng/plugin-sharing",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GitbookIO/plugin-sharing.git"
+    "url": "https://github.com/gitbook-ng/plugin-sharing.git"
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/GitbookIO/plugin-sharing/issues"
+    "url": "https://github.com/gitbook-ng/plugin-sharing/issues"
   },
   "gitbook": {
     "properties": {
